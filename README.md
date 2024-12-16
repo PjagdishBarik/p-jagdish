@@ -1,2 +1,2 @@
 # p-jagdish
-git and github demo class
+git and github demo class.
